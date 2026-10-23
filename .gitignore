@@ -1,0 +1,13 @@
+# ESP-IDF
+build/
+sdkconfig
+sdkconfig.old
+dependencies.lock
+managed_components/
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.swp
